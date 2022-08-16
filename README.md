@@ -13,7 +13,8 @@ A Software as a service (SaaS) company providing B2B solutions for the digital d
 
 ### Domain
 
-- [ ] Categorize complexities of (sub)domains / bounded-contexts with [Cynefin Framework](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+- [X] Categorize complexities of (sub)domains / bounded-contexts with [Cynefin Framework by Dave Snowden](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+  ![InsurTech - Cynefin domains](./assets/cynefin.jpg)
 - [ ] Event-storming
 - [ ] Context mapping / Anti-corruption layers (ACL)
 
